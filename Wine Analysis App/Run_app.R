@@ -4,7 +4,7 @@
 ## Plese specify your working path before launching ##
 ######################################################
 
-path = "/home/flocf/Documents/git/SPL/Wine Data Shiny App/"
+path = "/home/flocf/Documents/git/SPL/Wine Analysis App/"
 setwd(path)
 
 # List of all needed packages
