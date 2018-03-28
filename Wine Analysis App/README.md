@@ -25,12 +25,9 @@ Author : Florian Schulz, Oliver Brose, Alexander Döbele
 
 Submitted : 2018/03/30
 
-Input : wine data, app.R, many other functions
+Input : winequality-red.csv, winequality-white.csv, app.R, many other functions
 
 Output : Interactive shiny application
-
-Example : 'Sets the number of rolls equal to 20, the number of sixes is set to 1 and the
-probability for six with loaded dice is set to 0.66.'
 
 ```
 

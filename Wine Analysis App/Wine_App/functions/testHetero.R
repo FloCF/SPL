@@ -2,7 +2,7 @@
 # Ckecking for Heteroscedasticity #####################################
 #   # By Breusch-Pagan test ###########################################
 #   # By White test (own function with PB) ############################
-# Author: Florian Schulz ##############################################
+# Author: Florian Schulz and Alex Döbele ##############################
 #######################################################################
 
 testing_heterosced_ols = function(lmobject) {
