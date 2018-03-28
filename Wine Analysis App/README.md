@@ -7,7 +7,7 @@
 
 ```yaml
 
-Name of QuantLet : Wine Analysis App
+Name of QuantLet : SPLWineApp
 
 Published in : Statistical Programming Languages - WS17/18
 
@@ -21,7 +21,7 @@ ordered logit, multinomial logit, wine quality, Lasso, feature selection'
 
 See also : 'MMSTAT'
 
-Author : Florian Schulz, Oliver Brose, Alexander Döbele
+Author : Florian Schulz, Oliver Brose, Alex Döbele
 
 Submitted : 2018/03/30
 

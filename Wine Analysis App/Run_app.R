@@ -1,9 +1,31 @@
-######################################################
-##                THIS IS OUR WINE APP              ##
-##                                                  ##
-## Plese specify your working path before launching ##
-######################################################
+# ------------------------------------------------------------------------------
+# Name of Quantlet: SPLWineApp
+# ------------------------------------------------------------------------------
+# Published in:     Statistical Programming Languages - WS17/18
+# ------------------------------------------------------------------------------
+# Description:      Interactive shiny application to analyze wine data and predict wine quality.
+#                   Prediction model include ordered logit, multinomial logit, random forest, 
+#                   One-vs-Rest SVM as well as keras (deep) neural networks. Feature selection
+#                   for simple regression via Lasso regularization possible.
+# ------------------------------------------------------------------------------
+# Keywords:         shiny app, interactive, machine learning, neural network, keras,
+#                   random forest, ordered logit, multinomial logit, wine quality, Lasso,
+#                   feature selection
+# ------------------------------------------------------------------------------
+# Usage:            winequality-red.csv, winequality-white.csv, app.R, many other functions
+# ------------------------------------------------------------------------------
+# Output:           Interactive shiny application
+# ------------------------------------------------------------------------------
+# See also:         MMSTAT
+# ------------------------------------------------------------------------------
+# Author :          Florian Schulz, Oliver Brose, Alex Döbele
+# ------------------------------------------------------------------------------
 
+# please use "Esc" key to jump out of the Shiny app
+rm(list = ls(all = TRUE))
+graphics.off()
+
+# please set working directory setwd('C:/...') 
 path = "/home/flocf/Documents/git/SPL/Wine Analysis App/"
 setwd(path)
 
