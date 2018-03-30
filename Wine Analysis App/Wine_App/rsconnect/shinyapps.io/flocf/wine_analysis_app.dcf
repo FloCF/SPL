@@ -1,0 +1,13 @@
+name: wine_analysis_app
+title: Wine Analysis App
+username:
+account: flocf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 311751
+bundleId: 1294668
+url: https://flocf.shinyapps.io/wine_analysis_app/
+when: 1522400807.2822
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: shiny_example.R|underConstruction/Correlation-matrix.R|underConstruction/fancyCode.R|underConstruction/keras_NN.R|underConstruction/LASSO.R|underConstruction/presentation-example.R|underConstruction/Reg_Assumptions.R|underConstruction/report.Rmd|underConstruction/SPL_LASSO.R|underConstruction/VIF_function.R|underConstruction/workspace.R

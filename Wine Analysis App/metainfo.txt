@@ -10,12 +10,12 @@ possible.'
 Keywords : 'shiny app, interactive, machine learning, neural network, keras, random forest,
 ordered logit, multinomial logit, wine quality, Lasso, feature selection'
 
-See also : 'MMSTAT'
-
 Author : Florian Schulz, Oliver Brose, Alex Döbele
 
 Submitted : 2018/03/30
 
-Input : winequality-red.csv, winequality-white.csv, app.R, many other functions
+Datafile : winequality-red.csv, winequality-white.csv
+
+Input : app.R, many other functions
 
 Output : Interactive shiny application
