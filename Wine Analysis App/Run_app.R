@@ -54,4 +54,4 @@ sapply(list.files(pattern = "[.]R$", path = "Wine_App/ui_server", full.names = T
 sapply(list.files(pattern = "[.]R$", path = "Wine_App/functions", full.names = TRUE), source)
 
 # Run the App
-runApp("Wine_App", quiet = TRUE)#, launch.browser = TRUE)
+runApp("Wine_App", quiet = TRUE, launch.browser = TRUE)
